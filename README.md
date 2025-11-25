@@ -138,28 +138,12 @@ online-bookstore-db/
 - Relational Database Concepts
 - Business Logic Implementation
 
-## 📸 Screenshots
-
-### Database Schema
-![Schema Design](screenshots/schema_design.png)
-
-### Query Execution
-![Query Results](screenshots/basic_queries.png)
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: https://github.com/ajaylokhande416
+- LinkedIn: www.linkedin.com/in/ajay-lokhande-6b697a231
+- Email: lokhandeajay981@gmail.com
 
 ---
 
